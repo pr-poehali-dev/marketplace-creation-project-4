@@ -152,7 +152,7 @@ export default function Index() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between gap-4">
             <h1 className="text-3xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-              NOVA Market
+              Маркетплейс
             </h1>
 
             <div className="flex-1 max-w-2xl">
@@ -428,7 +428,7 @@ export default function Index() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
               <h3 className="font-bold text-lg mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                NOVA Market
+                Маркетплейс
               </h3>
               <p className="text-sm text-muted-foreground">
                 Современный маркетплейс с лучшими предложениями
@@ -462,7 +462,7 @@ export default function Index() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
-            © 2024 NOVA Market. Все права защищены.
+            © 2024 Маркетплейс. Все права защищены.
           </div>
         </div>
       </footer>
